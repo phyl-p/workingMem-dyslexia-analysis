@@ -1,0 +1,4 @@
+File name                                                                                           Size       Type                             Access level
+---------                                                                                           ----       ----                             ------------
+FINAL DATA WMDyslexia.pdf                                                                           267854     pdf                              open access
+WMDyslexia_data_FINAL2.csv                                                                          12687      csv                              open access
